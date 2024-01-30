@@ -1,0 +1,8 @@
+Battery,PowerCap,MinSOC,MaxSOC,InitialSOC,Chg_eff,Dchg_eff,,MinSOC,MaxSOC,InitialSOC
+ReEDS_combined_battery-4hr_p60,613,245.2,2452,1226,1,0.85,,0.2452,2.452,1.226
+ReEDS_combined_battery-4hr_p61,321.45,128.58,1285.8,642.9,1,0.85,,0.12858,1.2858,0.6429
+ReEDS_combined_battery-4hr_p62,42.7,17.08,170.8,85.4,1,0.85,,0.01708,0.1708,0.0854
+ReEDS_combined_battery-4hr_p63,857.65,343.06,3430.6,1715.3,1,0.85,,0.34306,3.4306,1.7153
+ReEDS_combined_battery-4hr_p64,4362.75,1745.1,17451,8725.5,1,0.85,,1.7451,17.451,8.7255
+ReEDS_combined_battery-4hr_p65,2814.025,1125.61,11256.1,5628.05,1,0.85,,1.12561,11.2561,5.62805
+ReEDS_combined_battery-4hr_p67,22998.6,9199.44,91994.4,45997.2,1,0.85,,9.19944,91.9944,45.9972
