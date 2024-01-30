@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "description": "",
+    "frequency": 60,
+    "time_series_resolution_milliseconds": 3600000,
+    "component_counts": [
+        {
+            "type": "Arc",
+            "count": 12
+        },
+        {
+            "type": "BatteryEMS",
+            "count": 7
+        },
+        {
+            "type": "Bus",
+            "count": 7
+        },
+        {
+            "type": "GenericBattery",
+            "count": 4
+        },
+        {
+            "type": "HydroDispatch",
+            "count": 6
+        },
+        {
+            "type": "Line",
+            "count": 12
+        },
+        {
+            "type": "LoadZone",
+            "count": 1
+        },
+        {
+            "type": "PowerLoad",
+            "count": 11
+        },
+        {
+            "type": "RenewableDispatch",
+            "count": 64
+        },
+        {
+            "type": "ThermalMultiStart",
+            "count": 3
+        },
+        {
+            "type": "ThermalStandard",
+            "count": 343
+        },
+        {
+            "type": "VariableReserve",
+            "count": 3
+        }
+    ],
+    "time_series_counts": [
+        {
+            "type": "DeterministicSingleTimeSeries",
+            "count": 92
+        },
+        {
+            "type": "SingleTimeSeries",
+            "count": 92
+        }
+    ]
+}
